@@ -1,0 +1,24 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Ignore user-specific files and settings
+*.userprefs
+*.suo
+*.cache
+*.vscode/
+
+# Ignore Node.js dependencies
+node_modules/
+
